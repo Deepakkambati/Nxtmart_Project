@@ -8,5 +8,4 @@ const ProtectedRouter = props => {
   }
   return <Route {...props} />
 }
-
 export default ProtectedRouter
